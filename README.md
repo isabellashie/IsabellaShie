@@ -2,7 +2,9 @@
 
 <p align="center">
 
-Welcome to my profile and thanks for passing by!
+<p align="center"> 
+	Welcome to my profile and thanks for passing by!
+</p>
 	
 ## :woman_technologist:  About me
 - :school: I am a `Freshman` at Faculty of Systems Analysis and Development at Faculdade Insted
