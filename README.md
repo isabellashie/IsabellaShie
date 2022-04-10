@@ -7,8 +7,8 @@
 </p>
 	
 ## :woman_technologist:  About me
-- :school: I am a `Freshman` at Faculty of Systems Analysis and Development at Faculdade Insted
-- :woman_student: I’m currently studying: `Logic Programming` and `Javascript`.
+- :school: I am a `Freshman` at Faculty of Systems Analysis and Development at Uninter
+- :woman_student: I’m currently studying: `Logic Programming` and `HTML`.
 - :nerd_face: Always `learning new things`
 </p>
 
