@@ -3,12 +3,12 @@
 <p align="center">
 
 <p align="center"> 
-	Welcome to my profile and thanks for passing by!
+	Welcome to my profile and thank you for passing by!
 </p>
 	
 ## :woman_technologist:  About me
 - :school: I am a `Freshman` at Faculty of Systems Analysis and Development at Uninter
-- :woman_student: I’m currently studying: `Logic Programming` and `HTML`.
+- :woman_student: Currently studying: `HTML`, `CSS` and `JavaScript`.
 - :nerd_face: Always `learning new things`
 </p>
 
