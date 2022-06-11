@@ -21,7 +21,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
 <h3> :speech_balloon: Contact me</h3>
-<a href="mailto:isabella@gmail.com" target="_blank">
+<a href="mailto:isabellashie@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/isabellashie/" target="_blank">
