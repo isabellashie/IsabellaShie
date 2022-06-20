@@ -6,6 +6,12 @@
 - :woman_technologist: Currently studying: `HTML`, `CSS`, `JavaScript`, `TypeScript` and `Node.js`;
 - :nerd_face: Fun Fact: I'm always learning and exploring new concepts of known and new things!
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=isabellashie" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=isabellashie" height="150" alt="languages graph"  />
+</div>
+
 <h3>:brain: Tech Stack</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
