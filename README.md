@@ -2,7 +2,7 @@
 <h3 align="center">I'm an IT student focused on starting my career in programming :rocket:</h3>
 	
 - :briefcase: I am passionate about tech and making a positive impact on people's lifes, and I’m #OpenToWork in a place that’ll help me do this;
-- 🎓 Studying Systems Analysis and Development at UNINTER;
+- 🎓 Studying Software Engineering at Faculdade Ampli;
 - :woman_technologist: Currently studying: `HTML`, `CSS`, `JavaScript`, `TypeScript` and `Node.js`;
 - :nerd_face: Fun Fact: I'm always learning and exploring new concepts of known and new things!
 <br>
