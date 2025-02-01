@@ -3,7 +3,6 @@
 	
 - :briefcase: I am passionate about tech and making a positive impact on people's lifes, and I’m #OpenToWork in a place that’ll help me do this;
 - 🎓 Studying Information Systems at UFMS;
-- :woman_technologist: Currently studying: `JavaScript`, `TypeScript`, `React.js` and `Node.js`;
 - :nerd_face: Always learning and exploring new concepts of known and new things!
 <br>
 
@@ -15,6 +14,8 @@
 <h3>:brain: Tech Stack</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
