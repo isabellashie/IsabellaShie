@@ -2,9 +2,9 @@
 <h3 align="center">I'm an IT student focused on starting my career in programming :rocket:</h3>
 	
 - :briefcase: I am passionate about tech and making a positive impact on people's lifes, and I’m #OpenToWork in a place that’ll help me do this;
-- 🎓 Studying Software Engineering at Faculdade Ampli;
+- 🎓 Studying Information Systems at UFMS;
 - :woman_technologist: Currently studying: `JavaScript`, `TypeScript`, `React.js` and `Node.js`;
-- :nerd_face: Fun Fact: I'm always learning and exploring new concepts of known and new things!
+- :nerd_face: Always learning and exploring new concepts of known and new things!
 <br>
 
 <div align="center">
@@ -23,15 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </div>
 
-###
-
-<h3>:memo: Studying</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-</div>
 
 ###
 
